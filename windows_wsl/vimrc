@@ -1,0 +1,13 @@
+syntax on
+
+colorscheme desert
+
+set t_Co=256
+if has("gui_running")
+    set guifont=Inconsolata\ 12
+endif
+
+set tabstop=4
+set softtabstop=4
+set expandtab
+set number
